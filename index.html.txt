@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claudio Acerbi Osteopata e Massoterapista | Castelleone e Domicilio</title>
+  <meta name="description" content="Osteopatia strutturale, viscerale, craniosacrale e pediatrica. Presso Kinesis Fit a Castelleone e a domicilio entro 20 km da Monte Cremasco. Prenota via WhatsApp o telefono.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container nav">
+      <a class="brand" href="index.html">
+        <strong>Claudio Acerbi</strong>
+        <span>Osteopata & Massoterapista</span>
+      </a>
+      <nav class="menu" aria-label="Menu">
+        <a href="index.html">Home</a>
+        <a href="osteopatia.html">Osteopatia</a>
+        <a href="massoterapia.html">Massoterapia</a>
+        <a href="domicilio.html">A domicilio</a>
+        <a href="chi-sono.html">Chi sono</a>
+        <a href="prenota.html"><b>Prenota</b></a>
+        <a href="contatti.html">Contatti</a>
+      </nav>
+      <div class="actions">
+        <a class="btn" href="tel:+393387010789">📞 338 7010789</a>
+        <a class="btn primary" href="https://wa.me/393387010789?text=Ciao%20Claudio,%20vorrei%20prenotare%20una%20seduta%20di%20osteopatia.%20Preferirei:%20Kinesis%20Fit%20(Castelleone)%20/%20A%20domicilio.%20Grazie!">💬 WhatsApp</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <p class="breadcrumb">📍 Castelleone (Kinesis Fit) • 🏠 Domicilio entro ~20 km da Monte Cremasco</p>
+          <h1 class="h1">Osteopatia e Massoterapia<br>per dolore, postura e benessere</h1>
+          <p class="sub">
+            Trattamenti personalizzati, approccio manuale non invasivo.
+            Prenotazioni rapide via WhatsApp, telefono e (se vuoi) calendario online.
+          </p>
+          <div class="actions" style="justify-content:flex-start; gap:12px; flex-wrap:wrap">
+            <a class="btn primary" href="prenota.html">📅 Prenota</a>
+            <a class="btn" href="osteopatia.html">Scopri l’osteopatia</a>
+            <a class="btn" href="contatti.html">Dove ricevo</a>
+          </div>
+          <div class="pills">
+            <span class="pill">Strutturale</span>
+            <span class="pill">Viscerale</span>
+            <span class="pill">Craniosacrale</span>
+            <span class="pill">Pediatrica</span>
+          </div>
+        </div>
+
+        <aside class="card kv">
+          <h3>Info rapide</h3>
+          <div><b>Studio</b> <span>Presso Kinesis Fit, Castelleone</span></div>
+          <div><b>Domicilio</b> <span>Entro ~20 km da Monte Cremasco</span></div>
+          <div><b>Prenotazioni</b> <span>WhatsApp e telefono</span></div>
+          <div class="notice">
+            <b>Nota:</b> se hai referti o esami recenti, portali con te alla prima seduta (se disponibili).
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2>Approcci osteopatici</h2>
+        <p class="lead">Scelgo la tecnica più adatta alla persona e al momento, dopo anamnesi e valutazione.</p>
+        <div class="grid">
+          <a class="card" href="osteopatia-strutturale.html" style="text-decoration:none">
+            <h3>Osteopatia strutturale</h3>
+            <p>Muscoli, articolazioni, postura, mobilità.</p>
+          </a>
+          <a class="card" href="osteopatia-viscerale.html" style="text-decoration:none">
+            <h3>Osteopatia viscerale</h3>
+            <p>Approccio delicato su tensioni e mobilità viscerale.</p>
+          </a>
+          <a class="card" href="osteopatia-craniosacrale.html" style="text-decoration:none">
+            <h3>Osteopatia craniosacrale</h3>
+            <p>Tecnica dolce per tensioni, stress, cefalee.</p>
+          </a>
+        </div>
+        <div style="height:14px"></div>
+        <div class="grid">
+          <a class="card" href="osteopatia-pediatrica.html" style="text-decoration:none">
+            <h3>Osteopatia pediatrica</h3>
+            <p>Approccio dedicato a neonati e bambini.</p>
+          </a>
+          <div class="card">
+            <h3>Massoterapia</h3>
+            <p>Contratture, recupero sportivo, tensioni muscolari. <a href="massoterapia.html">Scopri di più</a>.</p>
+          </div>
+          <div class="card">
+            <h3>Vuoi prenotare?</h3>
+            <p>Usa WhatsApp/telefono oppure il calendario online. <a href="prenota.html">Vai a Prenota</a>.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2>Dove lavoro</h2>
+        <p class="lead">In studio a Castelleone e a domicilio entro circa 20 km da Monte Cremasco.</p>
+        <div class="grid">
+          <div class="card">
+            <h3>Kinesis Fit (Castelleone)</h3>
+            <p>Ricevo su appuntamento presso Kinesis Fit a Castelleone.</p>
+          </div>
+          <div class="card">
+            <h3>A domicilio</h3>
+            <p>Comodo per chi preferisce essere seguito a casa o ha difficoltà di spostamento.</p>
+          </div>
+          <div class="card">
+            <h3>Contatti rapidi</h3>
+            <p>
+              <a href="tel:+393387010789">📞 338 7010789</a><br>
+              <a href="https://wa.me/393387010789?text=Ciao%20Claudio,%20vorrei%20prenotare%20una%20seduta.%20Grazie!">💬 WhatsApp</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div><b>Claudio Acerbi – Osteopata & Massoterapista</b></div>
+      <div class="small">Castelleone (Kinesis Fit) • Domicilio entro ~20 km da Monte Cremasco • Tel/WhatsApp: 338 7010789</div>
+      <div class="small">© <span id="y"></span> • Questo sito ha scopo informativo e non sostituisce il parere medico.</div>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('y').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
